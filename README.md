@@ -10,9 +10,11 @@ In addition to charging alerts, the system also warns users when the device begi
 
 This project focuses on interaction logic and UX design, not hardware-level implementation.
 
+
 ## ⚙️ How It Works
 
 The system continuously monitors battery level and device temperature and responds using clearly defined states.
+
 
 ## 🔋 Battery States
 
@@ -31,6 +33,8 @@ The system continuously monitors battery level and device temperature and respon
 → Safety warning suggesting unplugging or cooling the device
 
 All alerts are designed to be clear, timely, and non-intrusive, avoiding unnecessary interruptions.
+
+
 
 
 | State                | Description                              |
