@@ -1,4 +1,4 @@
-🔋 Battery Charging Safety Alert – Interaction Prototype
+#**🔋 Battery Charging Safety Alert – Interaction Prototype**
 
 A user-centric interaction prototype designed to promote safe and healthy device charging habits through clear, state-based alerts and overheating warnings.
 
@@ -32,23 +32,6 @@ The system continuously monitors battery level and device temperature and respon
 
 All alerts are designed to be clear, timely, and non-intrusive, avoiding unnecessary interruptions.
 
-🎨 Design & UX
-
-Low-fidelity wireframes to visualize alerts and state transitions
-
-Minimal feedback to reduce alert fatigue
-
-Strong focus on safety, clarity, and ease of use
-
-🛠️ Skills Demonstrated
-
-UX design & interaction prototyping
-
-State-based system and safety logic
-
-User-centered interaction modeling
-
-Wireframing and system visualization
 
 | State                | Description                              |
 | -------------------- | ---------------------------------------- |
