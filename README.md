@@ -4,11 +4,8 @@
 ---
 
 A user-centric interaction prototype designed to promote safe and healthy device charging habits through clear, state-based alerts and overheating warnings.
-
-
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-
-
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 ## 📌 Overview
 
 Battery Charging Safety Alert helps users make better charging decisions by translating battery level and temperature data into simple, actionable notifications.
