@@ -1,5 +1,7 @@
 # **🔋 Battery Charging Safety Alert – Interaction Prototype**
 
+
+
 A user-centric interaction prototype designed to promote safe and healthy device charging habits through clear, state-based alerts and overheating warnings.
 
 
@@ -37,6 +39,28 @@ The system continuously monitors battery level and device temperature and respon
 → Safety warning suggesting unplugging or cooling the device
 
 All alerts are designed to be clear, timely, and non-intrusive, avoiding unnecessary interruptions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
