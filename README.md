@@ -77,27 +77,3 @@ No spam. No panic. Just smart nudges.
 
 ---
 
-## 🎯 Design Goals
-
-- ✨ Minimal interruptions  
-- 🧭 Clear decision guidance  
-- 🛡️ Battery & device protection  
-- 📱 Beginner-friendly alerts  
-
-All alerts are designed to be **easy to understand at a glance**.
-
----
-
-## 🚀 Future Enhancements
-
-- Adaptive alerts based on user behavior  
-- Visual charging indicators  
-- Battery health analytics integration  
-
----
-
-## 📌 Summary
-
-This prototype showcases how **thoughtful UX design** can transform raw system data into **human-friendly insights**, encouraging safer charging habits without disrupting the user experience.
-
-> 🔋 Charge smart. Stay cool. Extend battery life.
