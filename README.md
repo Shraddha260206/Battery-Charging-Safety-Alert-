@@ -32,11 +32,29 @@ The system continuously monitors battery level and device temperature and respon
 
 All alerts are designed to be clear, timely, and non-intrusive, avoiding unnecessary interruptions.
 
-📊 System States Summary
-State	Description
-🔴 Low Charging	Battery below 20%, charging recommended
-🟢 Normal	Battery within safe usage range
-🔔 High Charging	Battery above 80%, unplug suggested
-❌ Bad Charging	Overcharging or unsafe charging detected
-✅ Good Charging	Optimal charging conditions
-🌡️ Overheating	Device temperature exceeds safe limit
+🎨 Design & UX
+
+Low-fidelity wireframes to visualize alerts and state transitions
+
+Minimal feedback to reduce alert fatigue
+
+Strong focus on safety, clarity, and ease of use
+
+🛠️ Skills Demonstrated
+
+UX design & interaction prototyping
+
+State-based system and safety logic
+
+User-centered interaction modeling
+
+Wireframing and system visualization
+
+| State                | Description                              |
+| -------------------- | ---------------------------------------- |
+| 🔴 **Low Charging**  | Battery below 20%, charging recommended  |
+| 🟢 **Normal**        | Battery within safe usage range          |
+| 🔔 **High Charging** | Battery above 80%, unplug suggested      |
+| ❌ **Bad Charging**   | Overcharging or unsafe charging detected |
+| ✅ **Good Charging**  | Optimal charging conditions              |
+| 🌡️ **Overheating**  | Device temperature exceeds safe limit    |
