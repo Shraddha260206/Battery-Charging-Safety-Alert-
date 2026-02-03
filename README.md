@@ -4,45 +4,33 @@ A user-centric interaction prototype designed to promote safe and healthy device
 
 📌 Overview
 
-Battery Charging Safety Alert helps users make better charging decisions by translating battery and temperature data into simple, actionable notifications. Along with charging alerts, the system also warns users when the device begins to overheat, helping protect battery health and device safety.
+Battery Charging Safety Alert helps users make better charging decisions by translating battery level and temperature data into simple, actionable notifications.
+
+In addition to charging alerts, the system also warns users when the device begins to overheat—helping protect battery health and overall device safety.
 
 This project focuses on interaction logic and UX design, not hardware-level implementation.
 
 ⚙️ How It Works
 
-The system monitors battery level and device temperature and responds using defined states:
+The system continuously monitors battery level and device temperature and responds using clearly defined states.
 
 🔋 Battery States
 
-🔴 Below 20% → Charge reminder
+🔴 Below 20%
+→ Charge reminder to prevent sudden shutdown
 
-🟢 20% – 80% → Safe charging zone
+🟢 20% – 80%
+→ Safe charging zone (no alerts shown)
 
-🔔 Above 80% → Unplug alert
+🔔 Above 80%
+→ Unplug alert to reduce overcharging
 
 🌡️ Temperature State
 
-⚠️ Overheating detected → Safety warning to unplug or cool the device
+⚠️ Overheating Detected
+→ Safety warning suggesting unplugging or cooling the device
 
-All alerts are designed to be clear, timely, and non-intrusive.
-
-🎨 Design & UX
-
-Low-fidelity wireframes to visualize alerts and transitions
-
-Simple feedback to reduce alert fatigue
-
-Focus on safety, clarity, and ease of use
-
-🛠️ Skills Demonstrated
-
-UX design & interaction prototyping
-
-State-based system and safety logic
-
-User-centered interaction modeling
-
-Wireframing and system visualization
+All alerts are designed to be clear, timely, and non-intrusive, avoiding unnecessary interruptions.
 
 📊 System States Summary
 State	Description
